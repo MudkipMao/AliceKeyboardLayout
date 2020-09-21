@@ -1,7 +1,6 @@
 # Alice Keyboard Layout
 
-![Layout]
-(https://i.imgur.com/5CktpSJ.png)
+![Layout](https://i.imgur.com/5CktpSJ.png)
 
 I made this KLE JSON because I couldn't find any online. I derived this from ProjectKeyboard's VIA layout and tuned it until it seemed to look close enough.
 
